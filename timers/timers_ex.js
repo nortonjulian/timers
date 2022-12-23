@@ -36,4 +36,4 @@ function randomGame(){
             console.log("It took" + times + " tries.");
         }
     }, 1000)
-}
+};
